@@ -9,8 +9,8 @@ Welcome to my GitHub profile!
 
 ## 💻 Skills
 
-- HTML, CSS, JavaScript
-- Python, Flask
+- HTML, Some Css, Javascript
+- Fabric mods & Fabric Plugins
 
 ## 📫 Contact
 
