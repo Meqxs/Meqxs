@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 ## 🚀 Projects
 
 - [🌐 My Website](https://Meqxs.github.io/Website/)
-- [🌐 My Guns.lol](https://Meqxs.github.io/Website/)
+- [🌐 My Guns.lol](guns.lol/meqxs)
 
 ## 💻 Skills
 
