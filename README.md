@@ -21,5 +21,5 @@ Welcome to my GitHub profile!
 
 ## 📫 Contact
 
-- Disocrd: http://discord.com/users/1277342381905285141
+- Discord: http://discord.com/users/1277342381905285141
 - Email: ...
