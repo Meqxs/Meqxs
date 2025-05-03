@@ -2,10 +2,6 @@
 
 Welcome to my GitHub profile!
 
-## 🚀 INFO
-
--Dm me on discord if you want to get in contact
-
 
 🚀 **Click this to go to my guns.lol**:  
 
@@ -25,5 +21,5 @@ Welcome to my GitHub profile!
 
 ## 📫 Contact
 
-- Disocrd:
-- Email: 
+- Disocrd: http://discord.com/users/1277342381905285141
+- Email: ...
