@@ -12,7 +12,6 @@ Welcome to my GitHub profile!
 - 🌐 Frontend: HTML, CSS (some), JavaScript
 - 🎮 Game Modding: Fabric Mods & Spigot Plugins
 - ⚙️ Tools: Git, VS Code, Xcode (learning iOS development)
-- 🎨 UI/UX: Clean and modern design principles
 - 🖥️ Python (for small apps, weather tools, games like Snake)
 
 ---
