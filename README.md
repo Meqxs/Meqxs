@@ -37,4 +37,4 @@ Welcome to my GitHub profile!
 ✨ **Fun Facts**
 - Like making stuff look nice
 - I'm pretty organized
-- I love War Thunder
+- 900 million dogs on earth
