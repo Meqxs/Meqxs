@@ -21,11 +21,8 @@ Welcome to my GitHub profile!
 
 ---
 
-🔥 **Projects (not posted)**
-- 🧱 Bliss Plugin (still in the works) – A Minecraft plugin with upgradable ability gems
-- 🌩 Weather App – A simple Python app that fetches real-time weather
-- 🐍 Advanced Snake Game – A sleek take on the classic snake game with levels, customization, and animations
-
+🔥 **Projects (posted)**
+- Check out my new minecraft mod - https://github.com/Meqxs/PvpHub - under review on modrinth
 ---
 
 📫 **Contact Me**
