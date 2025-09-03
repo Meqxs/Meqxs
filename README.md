@@ -2,11 +2,8 @@
 
 Welcome to my GitHub profile!
 
-🚀 **Click this to go to my guns.lol**:  
-[![Visit My Site](https://img.shields.io/badge/visit-guns.lol%2Fmeqxs-blue?style=for-the-badge)](https://guns.lol/meqxs)
-
 🚀 **Click this to go to my website**:  
-[![Visit My Site](https://img.shields.io/badge/visit-meqxs.github.io/Website/%2Fmeqxs-green?style=for-the-badge)](https://meqxs.github.io/Website/)
+[![Visit My Site](https://img.shields.io/badge/visit-meqxsdev.xyz%2F-green?style=for-the-badge)](https://meqxsdev.xyz)
 
 💻 **Skills & Tools**
 - 🌐 Frontend: HTML, CSS (some), JavaScript
