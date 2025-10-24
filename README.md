@@ -23,12 +23,7 @@ Welcome to my GitHub profile!
 ---
 
 📫 **Contact Me**
-- 🗨️ Discord: @Meqxs
-- 📧 Email: Coming Soon
+- Link with all my socials, guns.lol/meqxsdev
+- 📧 Email: max@meqxs.dev
 
----
 
-✨ **Fun Facts**
-- Like making stuff look nice
-- I'm pretty organized
-- 900 million dogs on earth
